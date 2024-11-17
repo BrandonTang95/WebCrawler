@@ -64,12 +64,12 @@ Run the parser.py script to parse the faculty data and store the structured data
 ## Example Output
 ### MongoDB Data Format (`professors` collection):
 {
-  "name": "John Doe",
-  "title": "Associate Professor",
-  "office": "8-15",
-  "phone": "(909) 869-3441",
-  "email": "johndoe@university.edu",
-  "website": "https://www.university.edu/faculty/johndoe/"
+  \n"name": "John Doe",
+  \n"title": "Associate Professor",
+  \n"office": "8-15",
+  \n"phone": "(909) 869-3441",
+  \n"email": "johndoe@university.edu",
+  \n"website": "https://www.university.edu/faculty/johndoe/"
 }
 
 ---
